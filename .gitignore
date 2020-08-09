@@ -1,0 +1,3 @@
+FSNetCore/src/**/bin/
+FSNetCore/src/**/obj/
+.ionide/
